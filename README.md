@@ -1,0 +1,2 @@
+# gojsonhook
+Golang json hook
